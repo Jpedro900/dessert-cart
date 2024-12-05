@@ -1,5 +1,7 @@
 # Vite + React Project
 
+![Texto Alternativo](src\assets\images\imgpage.png)
+
 Este é um projeto de front-end utilizando **Vite** como bundler, **React** como framework de UI, e **Tailwind CSS** para estilização. O projeto também está configurado com **Prettier** e o plugin **Prettier-plugin-tailwindcss** para garantir que as classes Tailwind sejam organizadas automaticamente na ordem recomendada.
 
 ## Funcionalidades
@@ -87,6 +89,3 @@ O projeto é responsivo e utiliza o **Tailwind CSS** para se adaptar a diferente
 ## Licença
 
 Este projeto está sob a licença MIT - consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-```
-
