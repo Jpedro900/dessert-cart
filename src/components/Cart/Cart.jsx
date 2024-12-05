@@ -23,7 +23,7 @@ const Cart = ({ cartItems, updateCartQuantity, toggleModal }) => {
         <div className="mb-8 mt-10 text-center">
           <img
             className="m-auto md:size-[200px] lg:size-[120px]"
-            src="src/assets/images/illustration-empty-cart.svg"
+            src="./assets/images/illustration-empty-cart.svg"
             alt="cakeimg"
           />
           <span
@@ -44,7 +44,7 @@ const Cart = ({ cartItems, updateCartQuantity, toggleModal }) => {
           <div className="m-auto flex h-16 w-[95%] items-center justify-center gap-2 rounded-lg bg-[#FFFBF4] text-[18px]">
             <img
               className="w-6"
-              src="src/assets/images/icon-carbon-neutral.svg"
+              src="./assets/images/icon-carbon-neutral.svg"
               alt=""
             />
             <span>

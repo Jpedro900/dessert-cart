@@ -5,7 +5,7 @@ const Modal = ({ cartItems }) => {
   return (
     <div className="absolute bottom-0 left-0 z-50 w-full rounded-t-2xl bg-white px-8 py-10 lg:translate-x-[-50%] lg:translate-y-1/2 lg:bottom-[50%] lg:left-[50%] lg:w-[45%] lg:rounded-2xl">
       <img
-        src="./src/assets/images/icon-order-confirmed.svg"
+        src="./assets/images/icon-order-confirmed.svg"
         alt="OrderConfirmed"
         className="mb-6"
       />
