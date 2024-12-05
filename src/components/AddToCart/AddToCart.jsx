@@ -43,7 +43,7 @@ const AddToCart = ({
       <div
         className={`justify-center gap-2 ${IsClicked && quantity > 0 ? "hidden" : "flex"}`}
       >
-        <img src="src\assets\images\icon-add-to-cart.svg" alt="" />
+        <img src=".src/assets/images/icon-add-to-cart.svg" alt="" />
         <span>Add to Cart</span>
       </div>
       <div
@@ -53,7 +53,7 @@ const AddToCart = ({
           className="flex justify-center rounded-full border-2 p-1 active:bg-white"
           onClick={handleDecrement}
         >
-          <img src="src\assets\images\icon-decrement-quantity.svg" alt="" />
+          <img src="./src/assets/images/icon-decrement-quantity.svg" alt="" />
         </div>
         <span className="text-white" id="cartCount">
           {quantity}
@@ -62,7 +62,7 @@ const AddToCart = ({
           className="flex justify-center rounded-full border-2 p-1 active:bg-white"
           onClick={handleIncrement}
         >
-          <img src="src\assets\images\icon-increment-quantity.svg" alt="" />
+          <img src="./src/assets/images/icon-increment-quantity.svg" alt="" />
         </div>
       </div>
     </div>

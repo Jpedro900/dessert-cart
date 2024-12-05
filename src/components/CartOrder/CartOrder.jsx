@@ -47,7 +47,7 @@ const CartOrder = ({ cartItems, setQuantity, setCartIsEmpty }) => {
                   >
                     <img
                       className="w-5 rounded-full border-2 border-solid border-gray-300 p-[0.1rem] hover:cursor-pointer"
-                      src="src\assets\images\icon-remove-item.svg"
+                      src="./src/assets/images/icon-remove-item.svg"
                       alt=""
                     />
                   </div>
