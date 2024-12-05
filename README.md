@@ -1,6 +1,6 @@
 # Vite + React Project
 
-![Texto Alternativo](src\assets\images\imgpage.png)
+![Texto Alternativo](./src/assets/images/imgpage.png)
 
 Este é um projeto de front-end utilizando **Vite** como bundler, **React** como framework de UI, e **Tailwind CSS** para estilização. O projeto também está configurado com **Prettier** e o plugin **Prettier-plugin-tailwindcss** para garantir que as classes Tailwind sejam organizadas automaticamente na ordem recomendada.
 
